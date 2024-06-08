@@ -84,7 +84,7 @@ The Phone Number Directory API is designed to allow users to register with their
 1. **User Registration**
 
    Endpoint: /api/users/register
-
+ 
 - Method: POST
 - Body: 
   ```bash
