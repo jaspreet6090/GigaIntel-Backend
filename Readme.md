@@ -27,7 +27,7 @@ The Phone Number Directory API is designed to allow users to register with their
 - **asyncHandler**: Utility for handling asynchronous route handlers.
 
 ## Project Structure
-
+```
 /backend
 │
 ├── /config
@@ -57,7 +57,7 @@ The Phone Number Directory API is designed to allow users to register with their
 |── app.js
 ├── server.js
 └── package.json
-
+```
 
 
 ## Installation
